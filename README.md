@@ -264,7 +264,7 @@ If you find this work useful in your research, please cite:
 **Corresponding Author:** Mingyang Wan
 
 - 📧 Email: mingyang_wan@163.com
-- 🔗 Issues: For questions or bug reports, please [open an issue]([https://github.com/MWan-deeplearner/ST-JSCC/issues](https://github.com/MWan-deeplearner/ST-JSCC/issues))
+- 🔗 Issues: For questions or bug reports, please [open an issue](https://github.com/MWan-deeplearner/ST-JSCC/issues)
 
 ---
 
@@ -529,7 +529,7 @@ python generalization.py     # 泛化性能图
 **通讯作者：** 万明扬 (Mingyang Wan)
 
 - 📧 邮箱：mingyang_wan@163.com
-- 🔗 问题反馈：请 [提交 Issue]([https://github.com/MWan-deeplearner/ST-JSCC/issues](https://github.com/MWan-deeplearner/ST-JSCC/issues))
+- 🔗 问题反馈：请 [提交 Issue](https://github.com/MWan-deeplearner/ST-JSCC/issues)
 
 ---
 
