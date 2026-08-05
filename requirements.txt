@@ -1,0 +1,26 @@
+# ST-JSCC Python Dependencies
+# Python >= 3.12 is required (nested f-string syntax used in test.py)
+# ---------------------------------
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Configuration Management
+hydra-core>=1.1.0
+omegaconf>=2.1.0
+
+# Metrics & Evaluation
+lpips>=0.1.4
+fvcore>=0.1.5
+
+# Computer Vision / Model Components
+timm>=0.6.0
+pytorch_wavelets>=1.3.0
+
+# Tensor Operations
+einops>=0.4.0
+
+# Data Processing & Visualization
+numpy>=1.20.0
+matplotlib>=3.3.0
+Pillow>=8.0.0

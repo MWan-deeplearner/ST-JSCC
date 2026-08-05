@@ -1,0 +1,57 @@
+# IDE
+.idea/
+
+# Claude
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Conda
+conda/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Hydra outputs
+logs/
+outputs/
+
+# Trained models (large binary files)
+saved_models/
+*.pt
+*.pth
+
+# Cached results
+result_dicts/
+*.pkl
+
+# Loss curves
+loss_curve/
+
+# Visualization outputs
+visualization/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+*_backup.pt
